@@ -12,13 +12,6 @@ If you follow my activities, you would know that I created a game entitled Trinn
 
 ##Changes
 
-- New images and avatars
-- Different levels
-- Faster gameplay
-- Better sounds
-- New sponsors
-- And against my better judgement, but suggested by many: <i>Better</i> clouds!</li>
-
 ```
 - New images and avatars
 - Different levels
