@@ -42,7 +42,7 @@ p {
 }
 
 a {
-	color: #2a7ead;
+	color: #99db45;
 	text-decoration: none;
 }
 
@@ -88,11 +88,11 @@ img {
 }
 
 #post-info h2:before {
-	content: "“";
+	content: "''";
 }
 
 #post-info h2:after {
-	content: "”";
+	content: "''";
 }
 
 #post-info h3 {
@@ -175,7 +175,7 @@ img.site-icon-page {
 }
 
 #article a:hover {
-	border-bottom: 2px solid #2a7ead;
+	border-bottom: 2px solid #99db45;
 	-webkit-transition: 0.5s ease;
 	transition: 0.5s ease;
 }
@@ -430,7 +430,7 @@ pre code {
 }
 
 .older-posts:hover, .newer-posts:hover {
-	color: #2a7ead;
+	color: #99db45;
 	border-color: #00BDB8;
 }
 
@@ -473,7 +473,7 @@ pre code {
 }
 
 #post-list a:hover {
-	color: #2a7ead;
+	color: #99db45;
 	text-decoration: none;
 }
 
