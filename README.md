@@ -1,2 +1,3 @@
-#Trinnorica website
-Just as simple as the title. :-)
+## quickscythe.github.io
+
+Powered by [Thinny](http://github.com/camporez/Thinny).
